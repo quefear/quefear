@@ -19,6 +19,7 @@
 ![CHARLES PROXY](https://img.shields.io/badge/-CHARLESPROXY-090909?style=for-the-badge&logo=CHARLESPROXY&logoColor=006488)
 
 ## Follow me
-![Twitter](https://img.shields.io/badge/-Twitter-090909?style=for-the-badge&logo=Twitter&logoColor=006488)
-![Linkedin](https://img.shields.io/badge/-Linkedin-090909?style=for-the-badge&logo=Linkedin&logoColor=006488)
-![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=006488)
+[![Twitter](https://img.shields.io/badge/-Twitter-090909?style=for-the-badge&logo=Twitter&logoColor=006488)](https://twitter.com/quefearrr)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-090909?style=for-the-badge&logo=Linkedin&logoColor=006488)](https://www.linkedin.com/in/mariashilina/)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=006488)](https://t.me/quefear)
+[![Bandcamp](https://img.shields.io/badge/-Bandcamp-090909?style=for-the-badge&logo=Bandcamp&logoColor=006488)](https://quefear.bandcamp.com/music)
