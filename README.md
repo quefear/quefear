@@ -2,7 +2,8 @@
 
 ![Header](assets/I-0e-OuZXeA.jpg)
 
-### I'm a QA engineer and modular synths enthusiast
+### Hi there! ✨
+### I'm a QA engineer and modular synths enthusiast 🐼
    
 
 ## Languages and Tools
